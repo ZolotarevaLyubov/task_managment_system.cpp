@@ -10,7 +10,7 @@ struct Task {
 
 class TaskManager {
  private:
- std::vector<Task>tasks;//хранение задач в векторе
+ std::vector<Task>tasks;
  
  public:
   void addTask(const Task& task);
