@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 
-//система управления 
+
 
 
 struct Task {
