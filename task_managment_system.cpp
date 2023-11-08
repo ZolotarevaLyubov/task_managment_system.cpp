@@ -1,7 +1,6 @@
 #include <iostream>
 #include <vector>
 
-
 struct Task {
  std::string title;
  std::string description;
