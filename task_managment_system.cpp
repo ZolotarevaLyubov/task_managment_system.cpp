@@ -6,7 +6,6 @@ struct Task {
  std::string description;
 };
 
-
 class TaskManager {
  private:
  std::vector<Task>tasks;
